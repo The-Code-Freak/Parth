@@ -370,7 +370,9 @@ header .navbar ul li a:hover{
     display: none;
 }
 
-
+img.img1 {
+    border-radius: 30px;
+  }
 
 
 
